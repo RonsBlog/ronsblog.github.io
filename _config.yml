@@ -16,11 +16,7 @@
 title: Rons Blog
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  This is Aaron's travel blog. From boarding the sail boat to distant shores you can 
-  be sure (provided I post) to see where the wind has brought me. Look at posts for a given 
-  day you'd like to know more about. Posts might be mostly German and very random. Pictures
-  don't know languages.
-  Our boat Sea Star may be tracked on vesselfinder: https://www.vesselfinder.com/?mmsi=238756540
+  private travel blog
 twitter_username: /
 github_username: RonsBlog
 minimal_mistakes_skin: default
@@ -62,7 +58,11 @@ plugins:
 author:
   name   : "Aaron"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "This is Aaron's travel blog. From boarding the sail boat to distant shores you can 
+  be sure (provided I post) to see where the wind has brought me. Look at posts for a given 
+  day you'd like to know more about. Posts might be mostly German and very random. Pictures
+  don't know languages.
+  Our boat Sea Star may be tracked on vesselfinder: https://www.vesselfinder.com/?mmsi=238756540"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
