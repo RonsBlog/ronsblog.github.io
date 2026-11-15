@@ -10,30 +10,30 @@
   display: none;
 }
 
-.author__avatar img {
-  max-width: 100px;
-  width: 100px;
-}
-
-/* Wrap bio text around the avatar */
-.author__avatar {
-  display: block;
-  float: left;
-  width: auto;
-  margin: 0 16px 8px 0;
-}
-
+/* Reset the theme's table-cell layout so floats work */
+.author__avatar,
 .author__content {
-  display: block;
-  padding-left: 0;
-  padding-right: 0;
+  display: block !important;
+  float: none !important;
+  width: auto !important;
+  height: auto !important;
+  padding: 0 !important;
+}
+
+/* Float the image itself; text wraps around it */
+.author__avatar img {
+  float: left;
+  width: 100px;
+  max-width: 100px;
+  height: auto;
+  margin: 0 16px 8px 0;
 }
 
 .author__bio {
   margin-top: 0;
 }
 
-/* Keep the links below the wrapped text */
+/* Clear the float so links sit below the text */
 .author__urls-wrapper {
   clear: both;
 }
