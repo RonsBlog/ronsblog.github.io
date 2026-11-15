@@ -56,11 +56,11 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Aaron's Journey Blog"
+  name   : "Aaron's Travel Blog"
   avatar : "/assets/images/bio-photo1.jpeg"
-  bio    : "Welcome to Aaron's travel blog. From boarding the sail boat to distant shores you can 
-  be sure (provided I post) to see where the wind has brought me.
-  Our boat Sea Star may be tracked on vesselfinder: https://www.vesselfinder.com/?mmsi=238756540"
+  bio    : "Welcome to my travel blog. From boarding the sail boat in Barcelona to the distant shores of Latin America and beyond you can 
+  be sure to here see where the wind has blown me.
+  Currently aboard the sail boat Sea Star which may be tracked [here](https://www.vesselfinder.com/?mmsi=238756540)."
 
 footer:
   links:
