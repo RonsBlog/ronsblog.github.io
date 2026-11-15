@@ -14,3 +14,26 @@
   max-width: 100px;
   width: 100px;
 }
+
+/* Wrap bio text around the avatar */
+.author__avatar {
+  display: block;
+  float: left;
+  width: auto;
+  margin: 0 16px 8px 0;
+}
+
+.author__content {
+  display: block;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.author__bio {
+  margin-top: 0;
+}
+
+/* Keep the links below the wrapped text */
+.author__urls-wrapper {
+  clear: both;
+}
