@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Aaron"
+  name   : "Aaron's Journey Blog"
   avatar : "/assets/images/bio-photo1.jpeg"
   bio    : "Welcome to Aaron's travel blog. From boarding the sail boat to distant shores you can 
   be sure (provided I post) to see where the wind has brought me.
