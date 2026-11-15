@@ -2,9 +2,9 @@
 title: "Week 0: Toulouse"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
-tags:
   - city
+  - hiking
+last_modified_at: 2026-11-15
 ---
 
 On Monday the 02.11.2026 I leave Germany for the last time this year. 
