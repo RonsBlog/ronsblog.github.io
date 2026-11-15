@@ -15,6 +15,6 @@ In the coming week I stay with Josi, a close friend from choire in Heidelberg. W
 ![](/assets/images/w0mountains.jpeg)
 *View of Pic de Péréjat (2276m). If anyone has an understanding of the horizontal lines of differently colored trees seen on _Péjérat_, please enlighten us.*
 
-Perhaps most importantly we stumbled upon Laris (proncounced <span lang="fr-fonipa">la.ʁi</span>, as derived from *lapin* and *souris*). We found them on one of the many bike vélô Toulouse ridea sitting all abandoned by a flower pot. Seein how Laris was all wet and cold, we promptly gave them a bath.
+Perhaps most importantly we stumbled upon Laris (proncounced <span lang="fr-fonipa">la.ʁi</span>, as derived from *lapin* and *souris*). We found them on one of the many bike vélô Toulouse rides sitting all abandoned by a flower pot. Seeing how Laris was all wet and cold, we promptly gave them a hot bath.
 ![](/assets/images/w0laris.jpeg)
 *Laris bathing at Josi's place.*
