@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   private travel blog
 twitter_username: /
 github_username: RonsBlog
-minimal_mistakes_skin: contrast
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Aaron"
-  avatar : "/assets/images/bio-photo1.jpg"
+  avatar : "/assets/images/bio-photo1.jpeg"
   bio    : "Welcome to Aaron's travel blog. From boarding the sail boat to distant shores you can 
   be sure (provided I post) to see where the wind has brought me.
   Our boat Sea Star may be tracked on vesselfinder: https://www.vesselfinder.com/?mmsi=238756540"
