@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Rons Blog
-email:
+email: nordmann.aj@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   private travel blog
 twitter_username: /
@@ -61,25 +61,9 @@ author:
   bio    : "Welcome to Aaron's travel blog. From boarding the sail boat to distant shores you can 
   be sure (provided I post) to see where the wind has brought me.
   Our boat Sea Star may be tracked on vesselfinder: https://www.vesselfinder.com/?mmsi=238756540"
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://ronsblog.github.io"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
@@ -97,8 +81,8 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
-      related: true
+      share: false
+      related: false
   # _pages
   - scope:
       path: "_pages"
@@ -110,6 +94,3 @@ defaults:
 category_archive:
   type: liquid
   path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
